@@ -49,14 +49,13 @@ Open zomato_dataset_analysis.ipynb in VS Code (with the Jupyter extension instal
 Run all cells from top to bottom
 
 --Zomato-Analysis Steps
-├── zomato_dataset_analysis.ipynb
-├── zomato.csv
-├── Country-Code.xlsx
-├── zomato_clean_dataset.csv
-├── SQL_Queries.sql
-├── images/
-│   └── dashboard_final.png
-└── README.md
+zomato_dataset_analysis.ipynb
+zomato.csv
+Country-Code.xlsx
+zomato_clean_dataset.csv
+SQL_Queries.sql
+Images/Dashboard_final.png
+README.md
 
 Author
 Sakshi Fauzdar
