@@ -54,7 +54,7 @@ zomato.csv
 Country-Code.xlsx
 zomato_clean_dataset.csv
 SQL_Queries.sql
-Images/Dashboard_final.png
+Images/Dashboard.png
 README.md
 
 Author
